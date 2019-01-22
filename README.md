@@ -69,5 +69,5 @@
 
 **Portuguese:** Native language
 
-**English:** Professional working proficiency
+**English:** Full professional proficiency
 
