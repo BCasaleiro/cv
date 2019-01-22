@@ -29,7 +29,7 @@
 	* Developed Object Recognition, OCR and Action Recognition pipelines 
 	and respective curation tools.
 	* Designed and trained a deep learning model to perform OCR 
-	using Keras, Tensorflow.
+	using Keras with Tensorflow.
 
 ### [Stratio](https://stratioautomotive.com/)
 	Web Developer
