@@ -4,18 +4,18 @@
 
 ### Instituto Superior Técnico
 	Masters in Information Systems and Computer Engineering
-	Major in Intelligent Systems
+	Algorithms and Intelligent Systems Focus
 	2016 -- 2018 Lisbon, Portugal 
 
 ### University of Coimbra
 	Bachelor in Software Engineering
 	2013 -- 2016 Coimbra, Portugal
 
-## Master Thesis
+## Master's Thesis
 
 ### Morphosyntactic Label Disambiguation
 
-**Supervisors:** Professor Bruno Martins & Professor Nuno Mamede
+**Supervisors:** [Professor Bruno Martins](http://web.tecnico.ulisboa.pt/bruno.g.martins/) & [Professor Nuno Mamede](https://www.l2f.inesc-id.pt/wiki/index.php/Nuno_Mamede)
 
 **Description:** This thesis explored the use of hand-crafted rules in combination with Recurrent Neural Networks and Conditional Random Fields to disambiguate 11 different morphosyntactic labels for each word.
 
@@ -36,7 +36,8 @@
 	May 2015 -- March 2016 Coimbra, Portugal
 	
 	* Full Stack Web Development using Laravel, Node.js, AngularJS and jQuery.
-	* Worked on the Android application Rotas Coimbra.
+	* Worked on an Android application that helps users pick a public transportation 
+	route for the city of Coimbra.
 
 ### JeKnowledge
 	Junior Developer
@@ -54,7 +55,7 @@
 	February 2014 Coimbra, Portugal
 
 #### ShiftAppens
-	Won the Subvisual health challenge
+	Won the Subvisual Health Challenge for best health app
 	February 2014 Coimbra, Portugal
 
 ## Skills
