@@ -21,7 +21,7 @@
 
 ## Work Experience
 
-### muse.ai
+### [muse.ai](https://muse.ai/)
 	Artificial Intelligence Engineer
 	September 2017 -- December 2018 Lisbon, Portugal
 	
@@ -31,7 +31,7 @@
 	* Designed and trained a deep learning model to perform OCR 
 	using Keras, Tensorflow.
 
-### Stratio
+### [Stratio](https://stratioautomotive.com/)
 	Web Developer
 	May 2015 -- March 2016 Coimbra, Portugal
 	
@@ -39,7 +39,7 @@
 	* Worked on an Android application that helps users pick a public transportation 
 	route for the city of Coimbra.
 
-### JeKnowledge
+### [JeKnowledge](https://jeknowledge.pt/)
 	Junior Developer
 	October 2013 -- May 2015 Coimbra, Portugal
 	
@@ -50,11 +50,11 @@
 
 ### Hackatons
 
-#### ShiftAppens
+#### [ShiftAppens](https://shiftappens.com/)
 	Honorable Mention
 	February 2014 Coimbra, Portugal
 
-#### ShiftAppens
+#### [ShiftAppens](https://shiftappens.com/)
 	Won the Subvisual Health Challenge for best health app
 	February 2014 Coimbra, Portugal
 
