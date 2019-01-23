@@ -43,7 +43,7 @@
 	Junior Developer
 	October 2013 -- May 2015 Coimbra, Portugal
 	
-	* Delevoped a JavaScript library to simplify map creation using Google Maps.
+	* Developed a JavaScript library to simplify map creation using Google Maps.
 	* Worked on several web development projects, mainly using Wordpress.
 
 ## Events
