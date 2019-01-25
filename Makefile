@@ -1,7 +1,12 @@
-filename=main
+cvname=main
+covername=cover
 
-pdf:
-	pdflatex ${filename}.tex
+cv:
+	pdflatex ${cvname}.tex
+
+cover:
+	pdflatex ${covername}.tex
 
 clean:
-	rm -f ${filename}.{ps,log,aux,out,dvi,bbl,blg}
+	rm -f ${cvname}.{ps,log,aux,out,dvi,bbl,blg}
+	rm -f ${covername}.{ps,log,aux,out,dvi,bbl,blg}
