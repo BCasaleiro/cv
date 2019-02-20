@@ -21,6 +21,10 @@
 
 ## Work Experience
 
+### [Fuelsave](https://fuelsave.io/)
+	Data Scientist
+	February 2019 -- Present Lisbon, Portugal
+
 ### [muse.ai](https://muse.ai/)
 	Artificial Intelligence Engineer
 	September 2017 -- December 2018 Lisbon, Portugal
