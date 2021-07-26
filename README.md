@@ -25,18 +25,18 @@
 	Data Engineer
 	October 2019 -- Present Lisbon, Portugal
 
-	* Set up and managed a [https://cassandra.apache.org/](Cassandra) cluster of up to 9 nodes, and its backup system.
-	* Implemented the [https://pri.meight.com](Primeight) Open Source Python package to standardize how people inside Meight interacted with Cassandra.
-	* Set up monitoring and analytics for all services using [https://www.elastic.co/what-is/elk-stack](ELK Stack), that led to an API success rate of over 99.5%.
+	* Set up and managed a Cassandra cluster of up to 9 nodes, and its backup system.
+	* Implemented the Primeight Open Source Python package to standardize how people inside Meight interacted with Cassandra.
+	* Set up monitoring and analytics for all services using ELK Stack, that led to an API success rate of over 99.5%.
 	* Designed and enforced a plan that reduced AWS costs by 65% while improving uptime of all systems.
-	* Implemented and managed multiple ETL pipelines using [https://airflow.apache.org](Apache Airflow).
-	* Designed and implemented multiple API services using [https://fastapi.tiangolo.com/](FastAPI).
+	* Implemented and managed multiple ETL pipelines using Apache Airflow.
+	* Designed and implemented multiple API services using FastAPI.
 
 	Data Scientist
 	February 2019 -- January 2020 Lisbon, Portugal
 
 	* Developed a pipeline to assess the quality of the received data.
-	* Implemented a Complex Event Processor using [https://siddhi.io/](Siddhi) to detect and correct driver mistakes in real time.
+	* Implemented a Complex Event Processor using Siddhi to detect and correct driver mistakes in real time.
 	* Implemented an ETL pipeline to automatically detect the beggining and end of Trips.
 
 
