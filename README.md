@@ -25,10 +25,10 @@
 	Data Engineer
 	October 2019 -- Present Lisbon, Portugal
 
-	* Set up and managed a Cassandra cluster of up to 9 nodes, and its backup system.
+	* Set up and managed a Cassandra cluster of up to 9 nodes and its backup system.
 	* Implemented the Primeight Open Source Python package to standardize how people inside Meight interacted with Cassandra.
-	* Set up monitoring and analytics for all services using ELK Stack, that led to an API success rate of over 99.5%.
-	* Designed and enforced a plan that reduced AWS costs by 65% while improving uptime of all systems.
+	* Set up monitoring and analytics for all services using ELK Stack, which led to an API success rate of over 99.5%.
+	* Designed and enforced a plan that reduced AWS costs by 65% while improving the uptime of all systems.
 	* Implemented and managed multiple ETL pipelines using Apache Airflow.
 	* Designed and implemented multiple API services using FastAPI.
 
@@ -37,7 +37,7 @@
 
 	* Developed a pipeline to assess the quality of the received data.
 	* Implemented a Complex Event Processor using Siddhi to detect and correct driver mistakes in real time.
-	* Implemented an ETL pipeline to automatically detect the beggining and end of Trips.
+	* Implemented an ETL pipeline to automatically detect the begining and end of Trips.
 
 
 ### [muse.ai](https://muse.ai/)
