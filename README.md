@@ -1,24 +1,5 @@
 # Bernardo Casaleiro
 
-## Education
-
-### Instituto Superior Técnico
-	Masters in Information Systems and Computer Engineering
-	Algorithms and Intelligent Systems Focus
-	2016 -- 2018 Lisbon, Portugal 
-
-### University of Coimbra
-	Bachelor in Software Engineering
-	2013 -- 2016 Coimbra, Portugal
-
-## Master's Thesis
-
-### Morphosyntactic Label Disambiguation
-
-**Supervisors:** [Professor Bruno Martins](http://web.tecnico.ulisboa.pt/bruno.g.martins/) & [Professor Nuno Mamede](https://www.l2f.inesc-id.pt/wiki/index.php/Nuno_Mamede)
-
-**Description:** This thesis explored the use of hand-crafted rules in combination with Recurrent Neural Networks and Conditional Random Fields to disambiguate 11 different morphosyntactic labels for each word.
-
 ## Work Experience
 
 ### [Meight](https://meight.com/)
@@ -36,8 +17,8 @@
 	February 2019 -- January 2020 Lisbon, Portugal
 
 	* Developed a pipeline to assess the quality of the received data.
-	* Implemented a Complex Event Processor using Siddhi to detect and correct driver mistakes in real time.
-	* Implemented an ETL pipeline to automatically detect the begining and end of Trips.
+	* Implemented a Complex Event Processor using Siddhi to detect and correct driver mistakes in real-time.
+	* Implemented an ETL pipeline to automatically detect the beginning and end of Trips.
 
 
 ### [muse.ai](https://muse.ai/)
@@ -65,6 +46,25 @@
 	* Developed a JavaScript library to simplify map creation using Google Maps.
 	* Worked on several web development projects, mainly using Wordpress.
 
+## Education
+
+### Instituto Superior Técnico
+	Masters in Information Systems and Computer Engineering
+	Algorithms and Intelligent Systems Focus
+	2016 -- 2018 Lisbon, Portugal 
+
+### University of Coimbra
+	Bachelor in Software Engineering
+	2013 -- 2016 Coimbra, Portugal
+
+## Master's Thesis
+
+### Morphosyntactic Label Disambiguation
+
+**Supervisors:** [Professor Bruno Martins](http://web.tecnico.ulisboa.pt/bruno.g.martins/) & [Professor Nuno Mamede](https://www.l2f.inesc-id.pt/wiki/index.php/Nuno_Mamede)
+
+**Description:** This thesis explored the use of hand-crafted rules in combination with Recurrent Neural Networks and Conditional Random Fields to disambiguate 11 different morphosyntactic labels for each word.
+
 ## Events
 
 ### Hackatons
@@ -79,9 +79,9 @@
 
 ## Skills
 
-**Languages:** Python, SQL, JavaScript, HTML, CSS
+**Languages:** Python, Java, SQL 
 
-**Tools:** Keras, Tensorflow
+**Tools:** Apache Airflow, ELK, Keras, Tensorflow
 
 **Other Skills:** Git, Docker
 
