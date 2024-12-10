@@ -1,10 +1,13 @@
-## Mac files
+# Mac files
 .DS_Store
 
-## PDF files
+# IDE files
+.idea
+
+# PDF files
 *.pdf
 
-## Core latex/pdflatex auxiliary files:
+# Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
 *.log
@@ -17,7 +20,7 @@
 *.cb
 *.cb2
 
-## Build tool auxiliary files:
+# Build tool auxiliary files:
 *.fdb_latexmk
 *.synctex
 *.synctex(busy)
